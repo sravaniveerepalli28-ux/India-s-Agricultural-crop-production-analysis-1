@@ -36,28 +36,3 @@ Jupyter notebook: Run each cell step by step to understand the process.
 Tableau links:
 https://public.tableau.com/app/profile/vrushali.kulkarni5437/viz/IndiaCropProduction_16888992946190/PopulationvsProductionGrowth
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 2 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-1
-@vrushali92
-vrushali92 Vrushali Kulkarni
-Languages
-Jupyter Notebook
-100.0%
-Footer
-© 2
